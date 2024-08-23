@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Carter",
+        "subject": "Computer Science",
+        "stars": 4,
+        "review": "Dr. Carter is knowledgeable and approachable, but her exams are tough."
+      },
+      {
+        "professor": "Dr. John Smith",
+        "subject": "Mathematics",
+        "stars": 5,
+        "review": "Excellent professor, explains concepts very clearly and is always available for help."
+      },
+      {
+        "professor": "Dr. Alice Johnson",
+        "subject": "Physics",
+        "stars": 3,
+        "review": "Dr. Johnson is good but sometimes goes too fast during lectures."
+      },
+      {
+        "professor": "Dr. Robert Brown",
+        "subject": "Chemistry",
+        "stars": 2,
+        "review": "Dr. Brown's lectures are a bit disorganized, and the labs are very challenging."
+      },
+      {
+        "professor": "Dr. Michael Davis",
+        "subject": "Biology",
+        "stars": 5,
+        "review": "Dr. Davis is passionate about the subject and makes the class enjoyable."
+      },
+      {
+        "professor": "Dr. Sarah Wilson",
+        "subject": "English",
+        "stars": 4,
+        "review": "Engaging lectures with plenty of class discussions, but grading is tough."
+      },
+      {
+        "professor": "Dr. James Garcia",
+        "subject": "History",
+        "stars": 5,
+        "review": "Dr. Garcia has a wealth of knowledge and makes history come alive in class."
+      },
+      {
+        "professor": "Dr. Linda Martinez",
+        "subject": "Sociology",
+        "stars": 3,
+        "review": "Dr. Martinez is insightful, but the readings are heavy."
+      },
+      {
+        "professor": "Dr. William Rodriguez",
+        "subject": "Economics",
+        "stars": 4,
+        "review": "Interesting lectures, but the exams are very tricky."
+      },
+      {
+        "professor": "Dr. Barbara Lee",
+        "subject": "Psychology",
+        "stars": 5,
+        "review": "Dr. Lee is an excellent professor who cares about her students."
+      },
+      {
+        "professor": "Dr. Richard White",
+        "subject": "Philosophy",
+        "stars": 3,
+        "review": "Dr. White is very philosophical, but sometimes difficult to follow."
+      },
+      {
+        "professor": "Dr. Mary Thompson",
+        "subject": "Political Science",
+        "stars": 4,
+        "review": "Great class discussions, but a lot of reading is required."
+      },
+      {
+        "professor": "Dr. Christopher Harris",
+        "subject": "Art History",
+        "stars": 5,
+        "review": "Passionate about art and makes every lecture interesting."
+      },
+      {
+        "professor": "Dr. Patricia Clark",
+        "subject": "Anthropology",
+        "stars": 4,
+        "review": "Dr. Clark is knowledgeable, but her grading is very strict."
+      },
+      {
+        "professor": "Dr. Kevin Lewis",
+        "subject": "Computer Engineering",
+        "stars": 2,
+        "review": "Dr. Lewis is difficult to understand, and the projects are very challenging."
+      },
+      {
+        "professor": "Dr. Donna Walker",
+        "subject": "Statistics",
+        "stars": 3,
+        "review": "The material is tough, but Dr. Walker is always willing to help."
+      },
+      {
+        "professor": "Dr. Mark Young",
+        "subject": "Environmental Science",
+        "stars": 4,
+        "review": "Dr. Young's class is engaging, but there is a lot of fieldwork."
+      },
+      {
+        "professor": "Dr. Nancy King",
+        "subject": "Literature",
+        "stars": 5,
+        "review": "Dr. King has a passion for literature and makes reading assignments enjoyable."
+      },
+      {
+        "professor": "Dr. Donald Hill",
+        "subject": "Geology",
+        "stars": 3,
+        "review": "Interesting lectures, but the exams are quite difficult."
+      },
+      {
+        "professor": "Dr. Michelle Scott",
+        "subject": "Ethics",
+        "stars": 4,
+        "review": "Thought-provoking discussions, but be prepared to defend your views."
+      }
+    ]
+  }
+  
